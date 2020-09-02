@@ -13,5 +13,3 @@ Third time lucky
 AwesomeFeature edits
 
 More
-
-Stash change
